@@ -1,0 +1,20 @@
+{
+  "name": "Lyon",
+  "short_name": "Lyon",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0A2540",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "fr",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Services géotechniques professionnels à Lyon, France. Études de sol, essais et conseil technique.",
+  "id": "/lyon-1693"
+}
