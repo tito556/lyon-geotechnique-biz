@@ -1,153 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://lyon.geotechnique.biz/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/amelioration/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/analyse-damplification-sismique/</loc>
+    <lastmod>2026-04-09</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/analyse-geotechnique-tunnels-sols/</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/analyse-lerosion-sols/</loc>
+    <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/analyse-pieux-frottement-lateral/</loc>
+    <lastmod>2026-04-03</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/analyse-stabilite-pentes/</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/analyse-tassement-differentiel/</loc>
+    <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/au-dilatometre-plat/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/cbr-laboratoire/</loc>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/compression-simple/</loc>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-colonnes-ballastees/</loc>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-compactage-dynamique/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-drains-verticaux-prefabriques/</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-fondations-parasismiques/</loc>
+    <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-jet-grouting/</loc>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-murs-soutenement/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-plate-forme-routiere/</loc>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-prechargement-surcharge/</loc>
+    <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-remblais-routiers/</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/conception-stabilisation-pentes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/consolidation-œdometrique/</loc>
+    <lastmod>2026-03-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/drainage-routier-geotechnique/</loc>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/essais-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/etude-cbr-conception-routiere/</loc>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/etude-mecanique-sols/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/excavations-souterraines/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/exploration/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/fondations/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/fondations-remblais/</loc>
+    <lastmod>2026-03-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/geophysique/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/geotechnique-routiere/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/instrumentation-geotechnique/</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/laboratoire/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/pentes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/remediation-sols-contamines/</loc>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lyon.geotechnique.biz/sismique/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/standard-penetration-test/</loc>
+    <lastmod>2026-04-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/tomographie-sismique/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://lyon.geotechnique.biz/triaxial/</loc>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>
